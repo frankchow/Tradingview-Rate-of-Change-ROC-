@@ -1,0 +1,5 @@
+//@version=4
+study("FC - Rate of Change (ROC)", shorttitle="ROC",scale=scale.left)
+
+length = input(title="Length", type=input.integer, defval=7)
+plot(roc(hlc3,length), color=#ff00ff, title="ROC")
