@@ -1,4 +1,4 @@
-# FC - Trading View Repro
+# FC - TradingView - Rate-of-Change
 This simple module aimed to SEE the % of change (volatility) of a given equity
 
 Created by : Frank Chow
